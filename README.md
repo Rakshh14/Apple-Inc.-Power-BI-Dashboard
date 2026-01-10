@@ -6,30 +6,22 @@ The objective of this dashboard is to evaluate Apple’s financial health and st
 
 The dashboard visualizes the following parameters:
 
-Liquidity Analysis
--Current Ratio vs. Cash Ratio
-
-Capital Structure Analysis
--Shareholders’ Equity vs. Debt-to-Equity
-
-Cash Trend Analysis
+>Liquidity Analysis
+- Current Ratio vs. Cash Ratio
+>Capital Structure Analysis
+- Shareholders’ Equity vs. Debt-to-Equity
+>Cash Trend Analysis
 -Year-over-year cash position trends
-
-Balance Sheet Trends
+>Balance Sheet Trends
 -Overall balance sheet movement over time
-
-Change Analysis
+>Change Analysis
 -Year-over-year changes in total assets
 -Year-over-year changes in total liabilities
 
 📈 Dashboard Features
 
-Interactive time-based analysis (2012–2021)
-
-KPI cards highlighting key financial indicators
-
-Trend and comparison charts for financial ratios
-
-Clean, executive-ready dashboard layout
-
-Filter-enabled exploration for deeper insights
+-Interactive time-based analysis (2012–2021)
+-KPI cards highlighting key financial indicators
+-Trend and comparison charts for financial ratios
+-Clean, executive-ready dashboard layout
+-Filter-enabled exploration for deeper insights
